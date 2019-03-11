@@ -1,8 +1,0 @@
-C:\Proyectos\ReadAttributeValues\Application.Attributes\bin\Debug\netstandard2.0\Application.Attributes.deps.json
-C:\Proyectos\ReadAttributeValues\Application.Attributes\bin\Debug\netstandard2.0\Application.Attributes.dll
-C:\Proyectos\ReadAttributeValues\Application.Attributes\bin\Debug\netstandard2.0\Application.Attributes.pdb
-C:\Proyectos\ReadAttributeValues\Application.Attributes\obj\Debug\netstandard2.0\Application.Attributes.csproj.CoreCompileInputs.cache
-C:\Proyectos\ReadAttributeValues\Application.Attributes\obj\Debug\netstandard2.0\Application.Attributes.AssemblyInfoInputs.cache
-C:\Proyectos\ReadAttributeValues\Application.Attributes\obj\Debug\netstandard2.0\Application.Attributes.AssemblyInfo.cs
-C:\Proyectos\ReadAttributeValues\Application.Attributes\obj\Debug\netstandard2.0\Application.Attributes.dll
-C:\Proyectos\ReadAttributeValues\Application.Attributes\obj\Debug\netstandard2.0\Application.Attributes.pdb

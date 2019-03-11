@@ -1,8 +1,0 @@
-C:\Users\Junior\source\Application.AttributeInterceptors\bin\Debug\netstandard2.0\Application.AttributeInterceptors.deps.json
-C:\Users\Junior\source\Application.AttributeInterceptors\bin\Debug\netstandard2.0\Application.AttributeInterceptors.dll
-C:\Users\Junior\source\Application.AttributeInterceptors\bin\Debug\netstandard2.0\Application.AttributeInterceptors.pdb
-C:\Users\Junior\source\Application.AttributeInterceptors\obj\Debug\netstandard2.0\Application.AttributeInterceptors.csproj.CoreCompileInputs.cache
-C:\Users\Junior\source\Application.AttributeInterceptors\obj\Debug\netstandard2.0\Application.AttributeInterceptors.AssemblyInfoInputs.cache
-C:\Users\Junior\source\Application.AttributeInterceptors\obj\Debug\netstandard2.0\Application.AttributeInterceptors.AssemblyInfo.cs
-C:\Users\Junior\source\Application.AttributeInterceptors\obj\Debug\netstandard2.0\Application.AttributeInterceptors.dll
-C:\Users\Junior\source\Application.AttributeInterceptors\obj\Debug\netstandard2.0\Application.AttributeInterceptors.pdb
